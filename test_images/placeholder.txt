@@ -1,2 +1,0 @@
-This folder contains test images for GIF Maker.
-Delete this file after uploading real images.
