@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Temporary files
+temp_*
+*.tmp
+
+# Ignore ALL GIFs EXCEPT the demo in assets
+*.gif
+!assets/demo.gif
+
+# System files
+.DS_Store       (Mac)
+Thumbs.db       (Windows)
